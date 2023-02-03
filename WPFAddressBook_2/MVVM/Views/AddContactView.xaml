@@ -29,7 +29,7 @@
             <TextBlock Text="Street Name"/>
             <TextBox Padding="3" Margin="0 0 0 10" Text="{Binding StreetName}"/>
 
-            <TextBlock Text="Country"/>
+            <TextBlock Text="country"/>
             <TextBox Padding="3" Margin="0 0 0 10" Text="{Binding Country}" />
 
             <Button Command="{Binding AddContactCommand}" Content="Create Contact" BorderThickness="0" Padding="5 5 5 5" Margin="0 60 0 10" Background="LightGoldenrodYellow"/>

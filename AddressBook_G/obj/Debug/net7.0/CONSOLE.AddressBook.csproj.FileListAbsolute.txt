@@ -1,0 +1,17 @@
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\bin\Debug\net7.0\CONSOLE.AddressBook.exe
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\bin\Debug\net7.0\CONSOLE.AddressBook.deps.json
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\bin\Debug\net7.0\CONSOLE.AddressBook.runtimeconfig.json
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\bin\Debug\net7.0\CONSOLE.AddressBook.dll
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\bin\Debug\net7.0\CONSOLE.AddressBook.pdb
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.csproj.AssemblyReference.cache
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.AssemblyInfoInputs.cache
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.AssemblyInfo.cs
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.csproj.CopyComplete
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.dll
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\refint\CONSOLE.AddressBook.dll
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.pdb
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\CONSOLE.AddressBook.genruntimeconfig.cache
+C:\Users\rashe\OneDrive\Skrivbord\C#_Project\AddressBook\AddressBook_G\obj\Debug\net7.0\ref\CONSOLE.AddressBook.dll

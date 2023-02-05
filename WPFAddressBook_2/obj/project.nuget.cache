@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvS0BPfycXN8beOkMONlzgGRiovaB053Z5eR35hrB4/lOu7v5lEMHHKONFxmRVFk37FpJyAs2rpeee3O3vuoSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rashe\\OneDrive\\Skrivbord\\C#_Project\\AddressBook_final\\WPFAddressBook_2\\MVVM.AddressBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rashe\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\rashe\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\rashe\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
